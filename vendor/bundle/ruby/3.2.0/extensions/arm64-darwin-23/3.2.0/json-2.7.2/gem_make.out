@@ -1,0 +1,16 @@
+current directory: /Users/magalimares/exercices/rails-watch-list/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+/Users/magalimares/.rbenv/versions/3.2.0/bin/ruby -I /Users/magalimares/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/magalimares/exercices/rails-watch-list/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240917-29357-lw08bo sitelibdir\=./.gem.20240917-29357-lw08bo clean
+
+current directory: /Users/magalimares/exercices/rails-watch-list/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240917-29357-lw08bo sitelibdir\=./.gem.20240917-29357-lw08bo
+make: Nothing to be done for `all'.
+
+current directory: /Users/magalimares/exercices/rails-watch-list/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240917-29357-lw08bo sitelibdir\=./.gem.20240917-29357-lw08bo install
+
+current directory: /Users/magalimares/exercices/rails-watch-list/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240917-29357-lw08bo sitelibdir\=./.gem.20240917-29357-lw08bo clean
